@@ -61,8 +61,11 @@ spring-batch-core폴더 하단 메타 데이터 테이블을 생성할 수 있�
     * 요일: 1~7 혹은 SUN MON TUE WED THU FRI SAT
 
 ## 코드
-* spring-batch-example 프로젝트 참조
+* spring-batch-example 프로젝트 참고
 
 ### TODO
 * Quartz를 사용한 스켈줄링
 * ...
+
+### 참조
+* https://dalgun.dev/blog/2019-10-30/spring-batch
